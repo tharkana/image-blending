@@ -1,0 +1,19 @@
+{
+  "name": "cat-image-mixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tharkana.infor@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "node-fetch": "^2.6.6",
+    "request": "^2.88.2"
+  }
+}
